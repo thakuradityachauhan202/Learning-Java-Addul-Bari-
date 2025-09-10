@@ -3,7 +3,7 @@ import java.util.*;
 public class literals {
     public static void main(String args[])
     {
-        byte b1=10;
+        byte b1=20;
         byte b2=0b1010;
         byte b3=012;
         byte b4=0xA;
