@@ -7,7 +7,7 @@ public class looppractice2 {
         int n=sc.nextInt();
 
         int sum=0;
-        for( int i=1; i<=10; i++)
+        for( int i=0; i<=10; i++)
         {
             sum = sum+i;
         }
